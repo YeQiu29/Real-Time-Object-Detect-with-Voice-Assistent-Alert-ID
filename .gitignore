@@ -1,0 +1,10 @@
+# Folder Virtual Environment
+.env/
+env/
+
+# File Model Machine Learning
+*.weights
+
+# File Pycache
+__pycache__/
+*.pyc
