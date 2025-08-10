@@ -19,12 +19,12 @@ Proyek ini adalah sebuah sistem deteksi objek secara real-time yang dirancang se
 ## 📋 Cara Menjalankan
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git)
-    cd NAMA_REPO_ANDA
+    git clone [[https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/YeQiu29/Real-Time-Object-Detect-with-Voice-Assistent-Alert-ID.git))
+    cd Real-Time-Object-Detect-with-Voice-Assistent-Alert-ID
     ```
 2.  **Install semua library yang dibutuhkan:**
     ```bash
-    pip install -r requirements.txt
+    #pip install -r requirements.txt
     ```
     *(Jangan lupa untuk membuat file `requirements.txt` terlebih dahulu)*
 
